@@ -1,0 +1,17 @@
+C:\Users\Владимир\Desktop\Политех\Инфа\ООП лабы 3 семак\Готовые лабы\Лаба 9\Код\Laba_9\obj\Debug\net6.0\Laba_9.csproj.AssemblyReference.cache
+C:\Users\Владимир\Desktop\Политех\Инфа\ООП лабы 3 семак\Готовые лабы\Лаба 9\Код\Laba_9\obj\Debug\net6.0\Laba_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир\Desktop\Политех\Инфа\ООП лабы 3 семак\Готовые лабы\Лаба 9\Код\Laba_9\obj\Debug\net6.0\Laba_9.AssemblyInfoInputs.cache
+C:\Users\Владимир\Desktop\Политех\Инфа\ООП лабы 3 семак\Готовые лабы\Лаба 9\Код\Laba_9\obj\Debug\net6.0\Laba_9.AssemblyInfo.cs
+C:\Users\Владимир\Desktop\Политех\Инфа\ООП лабы 3 семак\Готовые лабы\Лаба 9\Код\Laba_9\obj\Debug\net6.0\Laba_9.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\Desktop\Политех\Инфа\ООП лабы 3 семак\Готовые лабы\Лаба 9\Код\Laba_9\bin\Debug\net6.0\Laba_9.exe
+C:\Users\Владимир\Desktop\Политех\Инфа\ООП лабы 3 семак\Готовые лабы\Лаба 9\Код\Laba_9\bin\Debug\net6.0\Laba_9.deps.json
+C:\Users\Владимир\Desktop\Политех\Инфа\ООП лабы 3 семак\Готовые лабы\Лаба 9\Код\Laba_9\bin\Debug\net6.0\Laba_9.runtimeconfig.json
+C:\Users\Владимир\Desktop\Политех\Инфа\ООП лабы 3 семак\Готовые лабы\Лаба 9\Код\Laba_9\bin\Debug\net6.0\Laba_9.dll
+C:\Users\Владимир\Desktop\Политех\Инфа\ООП лабы 3 семак\Готовые лабы\Лаба 9\Код\Laba_9\bin\Debug\net6.0\Laba_9.pdb
+C:\Users\Владимир\Desktop\Политех\Инфа\ООП лабы 3 семак\Готовые лабы\Лаба 9\Код\Laba_9\obj\Debug\net6.0\Laba_9.dll
+C:\Users\Владимир\Desktop\Политех\Инфа\ООП лабы 3 семак\Готовые лабы\Лаба 9\Код\Laba_9\obj\Debug\net6.0\refint\Laba_9.dll
+C:\Users\Владимир\Desktop\Политех\Инфа\ООП лабы 3 семак\Готовые лабы\Лаба 9\Код\Laba_9\obj\Debug\net6.0\Laba_9.pdb
+C:\Users\Владимир\Desktop\Политех\Инфа\ООП лабы 3 семак\Готовые лабы\Лаба 9\Код\Laba_9\obj\Debug\net6.0\Laba_9.genruntimeconfig.cache
+C:\Users\Владимир\Desktop\Политех\Инфа\ООП лабы 3 семак\Готовые лабы\Лаба 9\Код\Laba_9\obj\Debug\net6.0\ref\Laba_9.dll
+C:\Users\Владимир\Desktop\Политех\Инфа\ООП лабы 3 семак\Готовые лабы\Лаба 9\Код\Laba_9\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Владимир\Desktop\Политех\Инфа\ООП лабы 3 семак\Готовые лабы\Лаба 9\Код\Laba_9\obj\Debug\net6.0\Laba_9.csproj.CopyComplete
