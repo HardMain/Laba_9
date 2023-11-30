@@ -9,7 +9,6 @@ namespace Laba_9
     public class TimeArray
     {
         static Random random = new Random();
-        int count;
         Time[] arr;
 
         public TimeArray()
@@ -21,13 +20,12 @@ namespace Laba_9
             msg = "Введите количество элементов в массиве: ";
             errorMsg = "\nКоличество элементов должно быть положительным числом!\n";
             condition = (numberRows) => (numberRows < 1);
-            count = CheckAndInput.InputIntNumberByCondition(msg, errorMsg, condition);
+            int count = CheckAndInput.InputIntNumberByCondition(msg, errorMsg, condition);
 
             arr = new Time[count];
         }
         public TimeArray(int count)
         {
-            this.count = count;
             arr = new Time[count];
         }
 
@@ -90,21 +88,21 @@ namespace Laba_9
         {
             get
             {
-                if (index < 0 || index >= count)
+                if (index < 0 || index >= Length)
                     throw new IndexOutOfRangeException();
 
                 return arr[index];
             }
             set
             {
-                if (index < 0 || index >= count)
+                if (index < 0 || index >= Length)
                     throw new IndexOutOfRangeException();
 
                 arr[index] = value;
             }
         }
 
-        public int Length { get { return count; } }
+        public int Length { get { return arr.Length; } }
 
         public override bool Equals(object? obj)
         {
@@ -119,5 +117,5 @@ namespace Laba_9
 
             return true;
         }
-    }
+    }   
 }

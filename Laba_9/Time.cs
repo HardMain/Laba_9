@@ -25,7 +25,7 @@ namespace Laba_9
         public static Time operator -(Time time1, int minutes)
         {
             Time temp = new Time(time1);
-            temp.Minutes -= minutes;
+            temp.Minutes -= minutes; //temp.Minutes = temp.Minutes - minutes;
 
             return temp;
         }
@@ -84,11 +84,7 @@ namespace Laba_9
                 if (value < 0)
                 {
                     if (_hours * 60 < Math.Abs(value))
-                    {
-                        Console.WriteLine("Ошибка! Недостаточно времени!\n");
-                        _minutes = 0;
                         return;
-                    }
 
                     int temp = _hours;
                     _hours = 0;

@@ -68,9 +68,9 @@ namespace Laba_9
             string msg4 = "Введите количество минут для вычитания из объекта 'C': ";
             minutes = CheckAndInput.InputIntNumberByCondition(msg4, errorMsg2, condition);
 
-            Console.Write($"\n Вычитание минут из объекта 'C': {time3.Hours}ч {time3.Minutes}м - {minutes}м = ");
+            Console.Write($"\nВычитание минут из объекта 'C': {time3.Hours}ч {time3.Minutes}м - {minutes}м = ");
 
-            time3 = time3 - minutes;
+            time3 = time3 - minutes; 
 
             Console.WriteLine($"{time3.Hours}ч {time3.Minutes}м");
 

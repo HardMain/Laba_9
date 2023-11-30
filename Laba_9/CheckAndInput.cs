@@ -17,7 +17,7 @@ namespace Laba_9
                 Console.Write(msg);
                 strEl = Console.ReadLine();
                 if (!int.TryParse(strEl, out el))
-                    Console.WriteLine(errorMsg);
+                    Console.WriteLine(errorMsg); 
             } while (!int.TryParse(strEl, out el));
 
             return el;
